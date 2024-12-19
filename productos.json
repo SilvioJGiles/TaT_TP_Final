@@ -1,0 +1,207 @@
+[
+    {
+      "id": 1,
+      "nombre": "Asado",
+      "imagen": "static/imagenes/asado.jpg",
+      "precio": 7700
+    },
+    {
+      "id": 2,
+      "nombre": "Asado de Falda",
+      "imagen": "static/imagenes/AsadoDeFalda.jpg",
+      "precio": 4860
+    },
+    {
+      "id": 3,
+      "nombre": "Azotillo",
+      "imagen": "static/imagenes/azotillo.jpg",
+      "precio": 4860
+    },
+    {
+      "id": 4,
+      "nombre": "Bife Ancho",
+      "imagen": "static/imagenes/bifeancho.jpg",
+      "precio": 7490
+    },
+    {
+      "id": 5,
+      "nombre": "Bife Angosto",
+      "imagen": "static/imagenes/bifeangosto.jpg",
+      "precio": 7860
+    },
+    {
+      "id": 6,
+      "nombre": "Bife con Lomo",
+      "imagen": "static/imagenes/bifeconlomo.jpg",
+      "precio": 7860
+    },
+    {
+      "id": 7,
+      "nombre": "Bola de Lomo",
+      "imagen": "static/imagenes/boladelomo.jpg",
+      "precio": 8510
+    },
+    {
+      "id": 8,
+      "nombre": "Carnaza de Paleta",
+      "imagen": "static/imagenes/carnazadepaleta.jpg",
+      "precio": 5620
+    },
+    {
+      "id": 9,
+      "nombre": "Cogote",
+      "imagen": "static/imagenes/cogote.jpg",
+      "precio": 5620
+    },
+    {
+      "id": 10,
+      "nombre": "Colita de Cuadril",
+      "imagen": "static/imagenes/colitadecuadril.jpg",
+      "precio": 10100
+    },
+    {
+      "id": 11,
+      "nombre": "Corazón de Cuadril",
+      "imagen": "static/imagenes/corazondecuadril.jpg",
+      "precio": 5300
+    },
+    {
+      "id": 12,
+      "nombre": "Cuadrada",
+      "imagen": "static/imagenes/cuadrada.jpg",
+      "precio": 8420
+    },
+    {
+      "id": 13,
+      "nombre": "Cuadril",
+      "imagen": "static/imagenes/cuadril.jpg",
+      "precio": 9100
+    },
+    {
+      "id": 14,
+      "nombre": "Entraña",
+      "imagen": "static/imagenes/entrana.jpg",
+      "precio": 9100
+    },
+    {
+      "id": 15,
+      "nombre": "Espinazo",
+      "imagen": "static/imagenes/espinazo.jpg",
+      "precio": 4760
+    },
+    {
+      "id": 16,
+      "nombre": "Falda",
+      "imagen": "static/imagenes/falda.jpg",
+      "precio": 4760
+    },
+    {
+      "id": 17,
+      "nombre": "Garrón",
+      "imagen": "static/imagenes/garron.jpg",
+      "precio": 4760
+    },
+    {
+      "id": 18,
+      "nombre": "Lomo",
+      "imagen": "static/imagenes/lomo.jpg",
+      "precio": 11910
+    },
+    {
+      "id": 19,
+      "nombre": "Marucha",
+      "imagen": "static/imagenes/marucha.jpg",
+      "precio": 4760
+    },
+    {
+      "id": 20,
+      "nombre": "Matambre",
+      "imagen": "static/imagenes/matambre.jpg",
+      "precio": 8090
+    },
+    {
+      "id": 21,
+      "nombre": "Nalga",
+      "imagen": "static/imagenes/nalga.jpg",
+      "precio": 9050
+    },
+    {
+      "id": 22,
+      "nombre": "Nalga de Afuera",
+      "imagen": "static/imagenes/nalgadeafuera.jpg",
+      "precio": 9040
+    },
+    {
+      "id": 23,
+      "nombre": "Ojo de Bife Ancho",
+      "imagen": "static/imagenes/ojodebifeancho.jpg",
+      "precio": 11910
+    },
+    {
+      "id": 24,
+      "nombre": "Osobuco",
+      "imagen": "static/imagenes/ozobuco.jpg",
+      "precio": 5180
+    },
+    {
+      "id": 25,
+      "nombre": "Paleta",
+      "imagen": "static/imagenes/paleta.jpg",
+      "precio": 7680
+    },
+    {
+      "id": 26,
+      "nombre": "Palomita",
+      "imagen": "static/imagenes/palomita.jpg",
+      "precio": 7600
+    },
+    {
+      "id": 27,
+      "nombre": "Peceto",
+      "imagen": "static/imagenes/peceto.jpg",
+      "precio": 10170
+    },
+    {
+      "id": 28,
+      "nombre": "Roast beef",
+      "imagen": "static/imagenes/roastbeef.jpg",
+      "precio": 7250
+    },
+    {
+      "id": 29,
+      "nombre": "Tapa de Asado",
+      "imagen": "static/imagenes/tapadeasado.jpg",
+      "precio": 7540
+    },
+    {
+      "id": 30,
+      "nombre": "Tapa de Bife Ancho",
+      "imagen": "static/imagenes/tapadebifeancho.jpg",
+      "precio": 7540
+    },
+    {
+      "id": 31,
+      "nombre": "Tapa de Cuadril",
+      "imagen": "static/imagenes/tapadecuadril.jpg",
+      "precio": 7540
+    },
+    {
+      "id": 32,
+      "nombre": "Tapa de Nalga",
+      "imagen": "static/imagenes/tapadenalga.jpg",
+      "precio": 7540
+    },
+    {
+      "id": 33,
+      "nombre": "Tortuguita",
+      "imagen": "static/imagenes/tortuguita.jpg",
+      "precio": 7180
+    },
+    {
+      "id": 34,
+      "nombre": "Vacío",
+      "imagen": "static/imagenes/vacio.jpg",
+      "precio": 9000
+    }    
+]
+  
