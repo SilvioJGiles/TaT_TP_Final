@@ -2,7 +2,7 @@
     {
       "id": 1,
       "nombre": "Asado",
-      "imagen": "static/imagenes/asado.jpg",
+      "imagen": "static/imagenes/Asado.jpg",
       "precio": 7700
     },
     {
@@ -14,193 +14,193 @@
     {
       "id": 3,
       "nombre": "Azotillo",
-      "imagen": "static/imagenes/azotillo.jpg",
+      "imagen": "static/imagenes/Azotillo.jpg",
       "precio": 4860
     },
     {
       "id": 4,
       "nombre": "Bife Ancho",
-      "imagen": "static/imagenes/bifeancho.jpg",
+      "imagen": "static/imagenes/BifeAncho.jpg",
       "precio": 7490
     },
     {
       "id": 5,
       "nombre": "Bife Angosto",
-      "imagen": "static/imagenes/bifeangosto.jpg",
+      "imagen": "static/imagenes/BifeAngosto.jpg",
       "precio": 7860
     },
     {
       "id": 6,
       "nombre": "Bife con Lomo",
-      "imagen": "static/imagenes/bifeconlomo.jpg",
+      "imagen": "static/imagenes/BifeConLomo.jpg",
       "precio": 7860
     },
     {
       "id": 7,
       "nombre": "Bola de Lomo",
-      "imagen": "static/imagenes/boladelomo.jpg",
+      "imagen": "static/imagenes/BolaDeLomo.jpg",
       "precio": 8510
     },
     {
       "id": 8,
       "nombre": "Carnaza de Paleta",
-      "imagen": "static/imagenes/carnazadepaleta.jpg",
+      "imagen": "static/imagenes/CarnazaDePaleta.jpg",
       "precio": 5620
     },
     {
       "id": 9,
       "nombre": "Cogote",
-      "imagen": "static/imagenes/cogote.jpg",
+      "imagen": "static/imagenes/Cogote.jpg",
       "precio": 5620
     },
     {
       "id": 10,
       "nombre": "Colita de Cuadril",
-      "imagen": "static/imagenes/colitadecuadril.jpg",
+      "imagen": "static/imagenes/ColitaDeCuadril.jpg",
       "precio": 10100
     },
     {
       "id": 11,
       "nombre": "Corazón de Cuadril",
-      "imagen": "static/imagenes/corazondecuadril.jpg",
+      "imagen": "static/imagenes/CorazonDeCuadril.jpg",
       "precio": 5300
     },
     {
       "id": 12,
       "nombre": "Cuadrada",
-      "imagen": "static/imagenes/cuadrada.jpg",
+      "imagen": "static/imagenes/Cuadrada.jpg",
       "precio": 8420
     },
     {
       "id": 13,
       "nombre": "Cuadril",
-      "imagen": "static/imagenes/cuadril.jpg",
+      "imagen": "static/imagenes/Cuadril.jpg",
       "precio": 9100
     },
     {
       "id": 14,
       "nombre": "Entraña",
-      "imagen": "static/imagenes/entrana.jpg",
+      "imagen": "static/imagenes/Entrana.jpg",
       "precio": 9100
     },
     {
       "id": 15,
       "nombre": "Espinazo",
-      "imagen": "static/imagenes/espinazo.jpg",
+      "imagen": "static/imagenes/Espinazo.jpg",
       "precio": 4760
     },
     {
       "id": 16,
       "nombre": "Falda",
-      "imagen": "static/imagenes/falda.jpg",
+      "imagen": "static/imagenes/Falda.jpg",
       "precio": 4760
     },
     {
       "id": 17,
       "nombre": "Garrón",
-      "imagen": "static/imagenes/garron.jpg",
+      "imagen": "static/imagenes/Garron.jpg",
       "precio": 4760
     },
     {
       "id": 18,
       "nombre": "Lomo",
-      "imagen": "static/imagenes/lomo.jpg",
+      "imagen": "static/imagenes/Lomo.jpg",
       "precio": 11910
     },
     {
       "id": 19,
       "nombre": "Marucha",
-      "imagen": "static/imagenes/marucha.jpg",
+      "imagen": "static/imagenes/Marucha.jpg",
       "precio": 4760
     },
     {
       "id": 20,
       "nombre": "Matambre",
-      "imagen": "static/imagenes/matambre.jpg",
+      "imagen": "static/imagenes/Matambre.jpg",
       "precio": 8090
     },
     {
       "id": 21,
       "nombre": "Nalga",
-      "imagen": "static/imagenes/nalga.jpg",
+      "imagen": "static/imagenes/Nalga.jpg",
       "precio": 9050
     },
     {
       "id": 22,
       "nombre": "Nalga de Afuera",
-      "imagen": "static/imagenes/nalgadeafuera.jpg",
+      "imagen": "static/imagenes/NalgaDeAfuera.jpg",
       "precio": 9040
     },
     {
       "id": 23,
       "nombre": "Ojo de Bife Ancho",
-      "imagen": "static/imagenes/ojodebifeancho.jpg",
+      "imagen": "static/imagenes/OjoDeBifeAncho.jpg",
       "precio": 11910
     },
     {
       "id": 24,
       "nombre": "Osobuco",
-      "imagen": "static/imagenes/ozobuco.jpg",
+      "imagen": "static/imagenes/Ozobuco.jpg",
       "precio": 5180
     },
     {
       "id": 25,
       "nombre": "Paleta",
-      "imagen": "static/imagenes/paleta.jpg",
+      "imagen": "static/imagenes/Paleta.jpg",
       "precio": 7680
     },
     {
       "id": 26,
       "nombre": "Palomita",
-      "imagen": "static/imagenes/palomita.jpg",
+      "imagen": "static/imagenes/Palomita.jpg",
       "precio": 7600
     },
     {
       "id": 27,
       "nombre": "Peceto",
-      "imagen": "static/imagenes/peceto.jpg",
+      "imagen": "static/imagenes/Peceto.jpg",
       "precio": 10170
     },
     {
       "id": 28,
       "nombre": "Roast beef",
-      "imagen": "static/imagenes/roastbeef.jpg",
+      "imagen": "static/imagenes/RoastBeef.jpg",
       "precio": 7250
     },
     {
       "id": 29,
       "nombre": "Tapa de Asado",
-      "imagen": "static/imagenes/tapadeasado.jpg",
+      "imagen": "static/imagenes/TapaDeAsado.jpg",
       "precio": 7540
     },
     {
       "id": 30,
       "nombre": "Tapa de Bife Ancho",
-      "imagen": "static/imagenes/tapadebifeancho.jpg",
+      "imagen": "static/imagenes/TapaDeBifeAncho.jpg",
       "precio": 7540
     },
     {
       "id": 31,
       "nombre": "Tapa de Cuadril",
-      "imagen": "static/imagenes/tapadecuadril.jpg",
+      "imagen": "static/imagenes/TapaDeCuadril.jpg",
       "precio": 7540
     },
     {
       "id": 32,
       "nombre": "Tapa de Nalga",
-      "imagen": "static/imagenes/tapadenalga.jpg",
+      "imagen": "static/imagenes/TapaDeNalga.jpg",
       "precio": 7540
     },
     {
       "id": 33,
       "nombre": "Tortuguita",
-      "imagen": "static/imagenes/tortuguita.jpg",
+      "imagen": "static/imagenes/Tortuguita.jpg",
       "precio": 7180
     },
     {
       "id": 34,
       "nombre": "Vacío",
-      "imagen": "static/imagenes/vacio.jpg",
+      "imagen": "static/imagenes/Vacio.jpg",
       "precio": 9000
     }    
 ]
